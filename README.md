@@ -1,7 +1,7 @@
 # Web_Scraping de un repositorio institucional
 ## _Este es un proyecto creado con fines educativos y de practica._
 
-Es un proyecto en donde se realiza un web scraping al repositorio institucional de tesis de psicología de la Universidad Nacional Federico Villarreal,
+Se realiza un web scraping al repositorio institucional de la Universidad Nacional Federico Villarreal,
 utilizando la librería [rvest](https://github.com/tidyverse/rvest).
 
 ## Archivos
